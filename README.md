@@ -1,4 +1,4 @@
-# Welcome to Dustin "The Moose Man" Warren's Portfolio!
+ # Welcome to Dustin "The Moose Man" Warren's Portfolio!
 **`Pixelated Pirate, Software Saboteur, and Relentless Researcher`**
 
 Hello there! I'm Dustin Warren, also known as "The Moose Man" or simply "Moose". I'm a cybersecurity professional, software/exploit developer, and reverse engineer passionate about building my version of the digital world one step at a time. From planning and designing to solving real-life problems with code, I thrive on creating meaningful projects from scratch.
@@ -71,22 +71,21 @@ You can add links to your blog posts here if you write on platforms like Medium,
 - [Exploit Development Tips](https://dev.to/yourusername/exploit-development-tips)
 - [Cybersecurity Best Practices](https://yourblog.com/cybersecurity-best-practices)
 
-## Certifications
-List any certifications you have earned that are relevant to your field.
+## Certification Goals
+
+These are the Certifications I have (paid) vouchers for and will be working on during 2025. 
 
 - **Certified Ethical Hacker (CEH)**
 - **Offensive Security Certified Professional (OSCP)**
 - **CompTIA Security+**
 
 ## Tools & Technologies
-Here, you can list the tools and technologies you are proficient in or currently learning.
 
 ### Proficient In:
 - Ghidra
-- IDA Pro
+- IDA (community)
 - Metasploit
-- Docker
-- Kubernetes
+- GDB-PWNTOOLS
 
 ### Currently Learning:
 - Advanced Binary Exploitation
@@ -94,19 +93,22 @@ Here, you can list the tools and technologies you are proficient in or currently
 - Cloud Security (AWS, Azure)
 
 ## Achievements
-Highlight any notable achievements, awards, or recognitions you have received.
 
 - **Capture The Flag (CTF) Competitions:**
-  - 1st Place - XYZ CTF 2023
-  - 2nd Place - ABC CTF 2022
+  - National Cyber League CTF - Fall 2021     (56th Percentile)
+  - National Cyber League CTF - Spring 2022   (54th Percentile)
+  - National Cyber League CTF - Fall 2022     (54th Percentile)
+  - National Cyber League CTF - Fall 2022    *Team* (9th Percentile)
+  - National Cyber League CTF - Spring 2023   (18th Percentile)
+  - National Cyber League CTF - Fall 2023     (15th Percentile)
+  - National Cyber League CTF - Fall 2024     (TBD)
 
 - **Open Source Contributions:**
-  - Contributed to [project/repo name](https://github.com/project/repo) - Description of contribution
+  Currently looking for a meaningful Open Source project to contribute to. 
+
 
 ## Fun Facts
-A section for some interesting or fun facts about yourself that show your personality.
 
-- **Favorite Hobbies:** Hiking, Gaming, Building Custom PCs
-- **Interesting Fact:** I once built a fully functional replica of an Enigma machine.
-- **Tech Hero:** Alan Turing
+- **Favorite Hobbies:** Video Games, Water Sports (Jet Skii, Tubing, Snowboarding), driving anything with an Engine (Motorcycles, Airplanes, Boats, Trucks, Cars), Learning new things
+- **Interesting Fact:** I speak pretty decent Japanese, Spanish, a bit of Italian, and German and I am a voracious traveler.
 
