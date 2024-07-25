@@ -8,7 +8,7 @@ Hello there! I'm Dustin Warren, also known as "The Moose Man" or simply "Moose".
 <ul>
     <li>Name: Dustin Warren</li>
     <li>Alias: The Moose Man / Moose</li>
-    <li>Focus: Cybersecurity, Reverse Engineering, Binary Exploitation, & exploit development</li>
+    <li>Focus: Cybersecurity, Vulnerability Research, Reverse Engineering, Binary Exploitation, & Exploit Development</li>
     <li>YouTube: @MooseMatrix</li>
 </ul>
 
@@ -16,11 +16,36 @@ Hello there! I'm Dustin Warren, also known as "The Moose Man" or simply "Moose".
 In the realm of software development, I specialize in cybersecurity with a focus on reverse engineering and binary exploitation. Whether it's dissecting complex algorithms or uncovering vulnerabilities, I'm always intrigued by the inner workings of systems.
 
 
-## Lets Connect
-Connect with me on LinkedIn
-Follow me on X
-Check out my Blog for insights and musings
-Feel free to reach out if you're interested in collaborating on projects, discussing cybersecurity topics, or simply want to say hello!This 
+### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/THE-MOOSE-MAN">
+    <img src="https://github-readme-stats.vercel.app/api?username=THE-MOOSE-MAN&show_icons=true&theme=radical" alt="Dustin's GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/THE-MOOSE-MAN">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-MOOSE-MAN&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
+### Connect with Me
+
+- **LinkedIn:** [Dustin Warren](https://www.linkedin.com/in/moosematrix/)
+- **X:** [@yourusername](https://x.com/TH3M00SEMAN)
+- **Email:** moosematrix@protonmail.com
+
+### Badges
+
+<p align="center">
+  <a href="https://github.com/THE-MOOSE-MAN">
+    <img src="https://img.shields.io/github/followers/THE-MOOSE-MAN?style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/THE-MOOSE-MAN">
+    <img src="https://img.shields.io/github/stars/THE-MOOSE-MAN?style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://x.com/TH3M00SEMAN">
+    <img src="https://img.shields.io/twitter/follow/yourusername?style=social" alt="Twitter Follow" />
+  </a>
+</p>
