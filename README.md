@@ -16,13 +16,13 @@ In the realm of software development, I specialize in cybersecurity with a focus
 
 <p align="center">
   <a href="https://github.com/THE-MOOSE-MAN">
-    <img src="https://github-readme-stats.vercel.app/api?username=THE-MOOSE-MAN&show_icons=true&theme=radical" alt="Dustin's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=THE-MOOSE-MAN&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Dustin's GitHub stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/THE-MOOSE-MAN">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-MOOSE-MAN&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-MOOSE-MAN&layout=compact&theme=dracula&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Top Languages" />
   </a>
 </p>
 
